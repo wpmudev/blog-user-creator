@@ -1,0 +1,18 @@
+CREATE TABLE IF NOT EXISTS `wp_blog_user_creator_queue` (
+  `blog_user_creator_ID` bigint(20) unsigned NOT NULL auto_increment,
+  `blog_user_creator_site_ID` bigint(20),
+  `blog_user_creator_blog_ID` bigint(20),
+  `blog_user_creator_batch_ID` varchar(255),
+  `blog_user_creator_user_name` varchar(255),
+  `blog_user_creator_user_pass` varchar(255),
+  `blog_user_creator_user_email` varchar(255),
+  `blog_user_creator_blog_name` varchar(255),
+  `blog_user_creator_blog_title` varchar(255),
+  `blog_user_creator_blog_types` TEXT,
+  `blog_user_creator_add_admin` tinyint(1),
+  `blog_user_creator_admin_uid` varchar(255),
+  `blog_user_creator_stamp` bigint(20),
+  `blog_user_creator_error` tinyint(1),
+  `blog_user_creator_error_msg` varchar(255),
+  PRIMARY KEY  (`blog_user_creator_ID`)
+) ENGINE=MyISAM;
