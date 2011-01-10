@@ -1,0 +1,355 @@
+# Translation of the WordPress plugin Blog And User Creator 1.1.9 by Andrew Billits, Ulrich Sossou.
+# Copyright (C) 2011 Andrew Billits, Ulrich Sossou
+# This file is distributed under the same license as the Blog And User Creator package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Blog And User Creator 1.1.9\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/blog-user-creator\n"
+"POT-Creation-Date: 2011-01-10 08:52+0100\n"
+"PO-Revision-Date: 2011-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: blog-user-creator.php:124
+msgid ""
+"We have problem finding your '/wp-admin/upgrade-functions.php' and '/wp-"
+"admin/includes/upgrade.php'"
+msgstr ""
+
+#: blog-user-creator.php:164 blog-user-creator.php:285
+#: blog-user-creator.php:399 blog-user-creator.php:791
+#: blog-user-creator.php:1237
+msgid "Blog & User Creator"
+msgstr ""
+
+#: blog-user-creator.php:238
+#, php-format
+msgid "New blog created by %1s\\n\\nAddress: http://%2s\\nName: %3s"
+msgstr ""
+
+#: blog-user-creator.php:239
+#, php-format
+msgid "[%s] New Blog Created"
+msgstr ""
+
+#: blog-user-creator.php:251
+#, php-format
+msgid "Error creating blog: %1$s - %2$s"
+msgstr ""
+
+#: blog-user-creator.php:270
+msgid "You do not have permission to access this page"
+msgstr ""
+
+#: blog-user-creator.php:285
+msgid "Simple"
+msgstr ""
+
+#: blog-user-creator.php:287 blog-user-creator.php:401
+msgid ""
+"Fill out the details below to easily create multiple users and blogs and add "
+"yourself as admin to them (if you wish). <br /><br />You can create up to 15 "
+"different users and blogs at one time and new users will be emailed their "
+"usernames and passwords automatically. If you need more than 15 please "
+"simply process this form and then start again.<br /><br /> Please try to use "
+"unique usernames and blog URLs as this will make the process a lot quicker "
+"for you. An easy way to do this is to add numbers and letters after a "
+"regular name - for example 'James' at 'Kings Heath School' in year 10 could "
+"be 'jameskh10'."
+msgstr ""
+
+#: blog-user-creator.php:305 blog-user-creator.php:831
+msgid "User Name"
+msgstr ""
+
+#: blog-user-creator.php:308 blog-user-creator.php:834
+msgid ""
+"This will be the name used to log in, try to choose something that will be "
+"unique - e.g. jamesqt3"
+msgstr ""
+
+#: blog-user-creator.php:309 blog-user-creator.php:480
+#: blog-user-creator.php:835 blog-user-creator.php:1332
+msgid ""
+"For existing users, leave this field blank and just enter the user email "
+"below."
+msgstr ""
+
+#: blog-user-creator.php:312 blog-user-creator.php:483
+#: blog-user-creator.php:838 blog-user-creator.php:1335
+msgid "User Email"
+msgstr ""
+
+#: blog-user-creator.php:315 blog-user-creator.php:486
+#: blog-user-creator.php:841 blog-user-creator.php:1338
+msgid ""
+"Required - if a user already exists with this email address, that user will "
+"be added to the blog you are creating."
+msgstr ""
+
+#: blog-user-creator.php:318 blog-user-creator.php:844
+msgid "User Password"
+msgstr ""
+
+#: blog-user-creator.php:321 blog-user-creator.php:847
+msgid ""
+"Leave this blank for a random password to be automatically generated and "
+"emailed to the user."
+msgstr ""
+
+#: blog-user-creator.php:324 blog-user-creator.php:850
+msgid "Blog Url"
+msgstr ""
+
+#: blog-user-creator.php:327 blog-user-creator.php:853
+msgid ""
+"You must fill this in for a blog to be created - try to choose something "
+"unique - e.g. myblog1aq will create http://myblog1aq."
+msgstr ""
+
+#: blog-user-creator.php:330 blog-user-creator.php:856
+msgid "Blog Title"
+msgstr ""
+
+#: blog-user-creator.php:333 blog-user-creator.php:859
+msgid ""
+"Required if you are creating a blog - this will appear as the title and can "
+"easily be changed later on - e.g. My School Blog"
+msgstr ""
+
+#: blog-user-creator.php:375 blog-user-creator.php:460
+#: blog-user-creator.php:916 blog-user-creator.php:1294
+msgid "Add Admin"
+msgstr ""
+
+#: blog-user-creator.php:378 blog-user-creator.php:463
+#: blog-user-creator.php:918 blog-user-creator.php:1296
+msgid "No"
+msgstr ""
+
+#: blog-user-creator.php:379 blog-user-creator.php:464
+#: blog-user-creator.php:919 blog-user-creator.php:1297
+msgid "Yes"
+msgstr ""
+
+#: blog-user-creator.php:383 blog-user-creator.php:467
+#: blog-user-creator.php:922 blog-user-creator.php:1300
+msgid ""
+"This will add you as a co-administrator of the blog so you can log into it "
+"and edit settings / make posts."
+msgstr ""
+
+#: blog-user-creator.php:392 blog-user-creator.php:414
+#: blog-user-creator.php:493 blog-user-creator.php:811
+#: blog-user-creator.php:931 blog-user-creator.php:1308
+#: blog-user-creator.php:1347
+msgid "Create"
+msgstr ""
+
+#: blog-user-creator.php:394 blog-user-creator.php:416
+#: blog-user-creator.php:495 blog-user-creator.php:814
+#: blog-user-creator.php:934 blog-user-creator.php:1311
+#: blog-user-creator.php:1350
+msgid "This may take some time so please be patient."
+msgstr ""
+
+#: blog-user-creator.php:399
+msgid "Advanced"
+msgstr ""
+
+#: blog-user-creator.php:417 blog-user-creator.php:1252
+msgid "Common Options"
+msgstr ""
+
+#: blog-user-creator.php:473
+msgid ":"
+msgstr ""
+
+#: blog-user-creator.php:476 blog-user-creator.php:1328
+msgid "Blog/User Name"
+msgstr ""
+
+#: blog-user-creator.php:479
+msgid ""
+"This will be the name used to log in and the name of the blog (ex: name."
+msgstr ""
+
+#: blog-user-creator.php:560 blog-user-creator.php:1018
+msgid "Only lowercase letters and numbers allowed"
+msgstr ""
+
+#: blog-user-creator.php:573 blog-user-creator.php:1031
+msgid "Sorry, that name is not allowed"
+msgstr ""
+
+#: blog-user-creator.php:580
+msgid "Sorry, blog name must be at least 4 characters"
+msgstr ""
+
+#: blog-user-creator.php:588
+msgid "Sorry, blog names may not contain the character '_'"
+msgstr ""
+
+#: blog-user-creator.php:598
+msgid "Sorry, blog names must have letters too"
+msgstr ""
+
+#: blog-user-creator.php:619
+msgid "Sorry, that blog name already exists"
+msgstr ""
+
+#: blog-user-creator.php:627
+msgid "Please provide a blog title"
+msgstr ""
+
+#: blog-user-creator.php:639 blog-user-creator.php:647
+#: blog-user-creator.php:1086 blog-user-creator.php:1094
+msgid "You must provide a valid email address"
+msgstr ""
+
+#: blog-user-creator.php:661
+msgid "Sorry, that username already exists"
+msgstr ""
+
+#: blog-user-creator.php:679
+msgid ""
+"That username is currently reserved but may be available in a couple of days"
+msgstr ""
+
+#: blog-user-creator.php:688 blog-user-creator.php:1136
+msgid "Only lowercase letters and numbers allowed in usernames"
+msgstr ""
+
+#: blog-user-creator.php:700
+msgid "You must provide a username"
+msgstr ""
+
+#: blog-user-creator.php:709
+msgid "Sorry, usernames must have letters too"
+msgstr ""
+
+#: blog-user-creator.php:716
+msgid "Username must be at least 4 characters"
+msgstr ""
+
+#: blog-user-creator.php:723
+msgid "Sorry, usernames may not contain the character '_'"
+msgstr ""
+
+#: blog-user-creator.php:736
+msgid "That username is not allowed"
+msgstr ""
+
+#: blog-user-creator.php:748 blog-user-creator.php:1196
+msgid ""
+"You cannot use that email address. We are having problems with them blocking "
+"some of our email. Please use another email provider."
+msgstr ""
+
+#: blog-user-creator.php:755 blog-user-creator.php:1203
+msgid "Please enter a correct email address"
+msgstr ""
+
+#: blog-user-creator.php:765 blog-user-creator.php:1213
+msgid "Sorry, that email address is not allowed"
+msgstr ""
+
+#: blog-user-creator.php:793 blog-user-creator.php:1239
+msgid "Errors were found. Please fix the errors and hit Create."
+msgstr ""
+
+#: blog-user-creator.php:812 blog-user-creator.php:932
+#: blog-user-creator.php:1309 blog-user-creator.php:1348
+msgid "Cancel"
+msgstr ""
+
+#: blog-user-creator.php:941 blog-user-creator.php:1357
+#: blog-user-creator.php:1384
+msgid "Creatings blogs..."
+msgstr ""
+
+#: blog-user-creator.php:993
+#, php-format
+msgid "%s 's Blog"
+msgstr ""
+
+#: blog-user-creator.php:1038 blog-user-creator.php:1164
+msgid "Sorry, blog/user names must be at least 4 characters"
+msgstr ""
+
+#: blog-user-creator.php:1046 blog-user-creator.php:1171
+msgid "Sorry, blog/user names may not contain the character '_'"
+msgstr ""
+
+#: blog-user-creator.php:1056 blog-user-creator.php:1157
+msgid "Sorry, blog/user names must have letters too"
+msgstr ""
+
+#: blog-user-creator.php:1077 blog-user-creator.php:1108
+msgid "Sorry, that blog/user name already exists"
+msgstr ""
+
+#: blog-user-creator.php:1126
+msgid ""
+"That blog/user name is currently reserved but may be available in a couple "
+"of days"
+msgstr ""
+
+#: blog-user-creator.php:1148
+msgid "You must provide a blog/user name"
+msgstr ""
+
+#: blog-user-creator.php:1184
+msgid "Sorry, that blog/user name is not allowed"
+msgstr ""
+
+#: blog-user-creator.php:1331
+#, php-format
+msgid ""
+"This will be the name used to log in and the name of the blog (ex: name.%1$s"
+"%2$s), try to choose something that will be unique - e.g. jamesqt3"
+msgstr ""
+
+#: blog-user-creator.php:1397
+msgid "Blogs and users created."
+msgstr ""
+
+#: blog-user-creator.php:1419
+msgid ""
+"Please install the latest version of <a href=\"http://premium.wpmudev.org/"
+"project/update-notifications/\" title=\"Download Now &raquo;\">our free "
+"Update Notifications plugin</a> which helps you stay up-to-date with the "
+"most stable, secure versions of WPMU DEV themes and plugins. <a href="
+"\"http://premium.wpmudev.org/wpmu-dev/update-notifications-plugin-"
+"information/\">More information &raquo;</a>"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Blog And User Creator"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://premium.wpmudev.org/project/blog-and-user-creator"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"The blog and user creator plugin is an amazing powerful feature that allows "
+"you, and your users, to batch create gazillions of blogs and/or users while "
+"setting passwords, urls, titles and more!"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Andrew Billits, Ulrich Sossou"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://premium.wpmudev.org/project/"
+msgstr ""
