@@ -5,6 +5,7 @@ Plugin URI: http://premium.wpmudev.org/project/blog-and-user-creator
 Description: The blog and user creator plugin is an amazing powerful feature that allows you, and your users, to batch create gazillions of blogs and/or users while setting passwords, urls, titles and more!
 Author: Andrew Billits, Ulrich Sossou
 Version: 1.1.9
+Network: true
 Author URI: http://premium.wpmudev.org/project/
 WDP ID: 80
 */
