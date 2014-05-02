@@ -3,7 +3,7 @@
 Plugin Name: Blog And User Creator
 Plugin URI: http://premium.wpmudev.org/project/blog-and-user-creator
 Description: The blog and user creator plugin is an amazing powerful feature that allows you, and your users, to batch create gazillions of blogs and/or users while setting passwords, urls, titles and more!
-Author: Andrew Billits, Ulrich Sossou
+Author: WPMU DEV
 Version: 1.1.9
 Text Domain: blog_user_creator
 Author URI: http://premium.wpmudev.org/project/
@@ -11,7 +11,9 @@ WDP ID: 80
 */
 
 /*
-Copyright 2007-2011 Incsub (http://incsub.com)
+Copyright 2009-2014 Incsub (http://incsub.com)
+Author - 
+Contributors - Andrew Billits, Ulrich Sossou
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License (Version 2 - GPLv2) as published by
